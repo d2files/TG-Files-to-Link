@@ -15,8 +15,7 @@ should include the protocol, e.g. `https://example.com`.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/d2files/TG-Files-to-Link)
 
 ### Without Session String
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/d2files/TG-Files-to-Link/tree/Merging)
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/d2files/TG-Files-to-Link)
 
 
 ### Environment variables
